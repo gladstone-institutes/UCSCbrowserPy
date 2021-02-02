@@ -1,0 +1,6 @@
+python make_all_txt.py \
+	/wynton/group/gladstone/biocore/projects/ppg-KC-srivastava-bruneau-black-2020/hota_2021/10.bulk_ATAC_seq_Jan_2021/rawdata/bwa/mergedLibrary/bigwig \
+	.bigWig \
+	./ \
+	kchoudha/ppg-Cardiac-KC/hota_2021/10.bulkATAC_Jan_2021_2days_BrmKO_and_WT/bigwigs/
+

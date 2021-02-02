@@ -1,0 +1,29 @@
+## Paste this link into the Genome Browser custom track box: http://wyngb.gladstone.org/data/kchoudha/ppg-Cardiac-KC/hota_2021/10.bulkATAC_Jan_2021_2days_BrmKO_and_WT/bigwigs/all.txt
+## Remember to set the default track location to an area with data (e.g. "Gapdh" for human, "Actn1" for mouse)
+## Finally, in the Genome Browser, go to My Data --> Session --> Save Session and save it as (for example): browserTracks_by_Krishna_Choudhary
+
+
+track type=bigWig name="D2_WT_R2.mLb.clN (wig)" description="D2_WT_R2.mLb.clN (wig)" bigDataUrl="http://wyngb.gladstone.org/data/kchoudha/ppg-Cardiac-KC/hota_2021/10.bulkATAC_Jan_2021_2days_BrmKO_and_WT/bigwigs/D2_WT_R2.mLb.clN.bigWig" alwaysZero="on" visibility="full" color="255,0,0" maxHeightPixels="128:32:8"
+
+track type=bigWig name="D2_WT_R1.mLb.clN (wig)" description="D2_WT_R1.mLb.clN (wig)" bigDataUrl="http://wyngb.gladstone.org/data/kchoudha/ppg-Cardiac-KC/hota_2021/10.bulkATAC_Jan_2021_2days_BrmKO_and_WT/bigwigs/D2_WT_R1.mLb.clN.bigWig" alwaysZero="on" visibility="full" color="255,0,0" maxHeightPixels="128:32:8"
+
+track type=bigWig name="D2BrmKO_R2.mLb.clN (wig)" description="D2BrmKO_R2.mLb.clN (wig)" bigDataUrl="http://wyngb.gladstone.org/data/kchoudha/ppg-Cardiac-KC/hota_2021/10.bulkATAC_Jan_2021_2days_BrmKO_and_WT/bigwigs/D2BrmKO_R2.mLb.clN.bigWig" alwaysZero="on" visibility="full" color="255,0,0" maxHeightPixels="128:32:8"
+
+track type=bigWig name="D0_WT_R3.mLb.clN (wig)" description="D0_WT_R3.mLb.clN (wig)" bigDataUrl="http://wyngb.gladstone.org/data/kchoudha/ppg-Cardiac-KC/hota_2021/10.bulkATAC_Jan_2021_2days_BrmKO_and_WT/bigwigs/D0_WT_R3.mLb.clN.bigWig" alwaysZero="on" visibility="full" color="255,0,0" maxHeightPixels="128:32:8"
+
+track type=bigWig name="D0BrmKO_R2.mLb.clN (wig)" description="D0BrmKO_R2.mLb.clN (wig)" bigDataUrl="http://wyngb.gladstone.org/data/kchoudha/ppg-Cardiac-KC/hota_2021/10.bulkATAC_Jan_2021_2days_BrmKO_and_WT/bigwigs/D0BrmKO_R2.mLb.clN.bigWig" alwaysZero="on" visibility="full" color="255,0,0" maxHeightPixels="128:32:8"
+
+track type=bigWig name="D2_WT_R3.mLb.clN (wig)" description="D2_WT_R3.mLb.clN (wig)" bigDataUrl="http://wyngb.gladstone.org/data/kchoudha/ppg-Cardiac-KC/hota_2021/10.bulkATAC_Jan_2021_2days_BrmKO_and_WT/bigwigs/D2_WT_R3.mLb.clN.bigWig" alwaysZero="on" visibility="full" color="255,0,0" maxHeightPixels="128:32:8"
+
+track type=bigWig name="D0BrmKO_R3.mLb.clN (wig)" description="D0BrmKO_R3.mLb.clN (wig)" bigDataUrl="http://wyngb.gladstone.org/data/kchoudha/ppg-Cardiac-KC/hota_2021/10.bulkATAC_Jan_2021_2days_BrmKO_and_WT/bigwigs/D0BrmKO_R3.mLb.clN.bigWig" alwaysZero="on" visibility="full" color="255,0,0" maxHeightPixels="128:32:8"
+
+track type=bigWig name="D0BrmKO_R1.mLb.clN (wig)" description="D0BrmKO_R1.mLb.clN (wig)" bigDataUrl="http://wyngb.gladstone.org/data/kchoudha/ppg-Cardiac-KC/hota_2021/10.bulkATAC_Jan_2021_2days_BrmKO_and_WT/bigwigs/D0BrmKO_R1.mLb.clN.bigWig" alwaysZero="on" visibility="full" color="255,0,0" maxHeightPixels="128:32:8"
+
+track type=bigWig name="D2BrmKO_R3.mLb.clN (wig)" description="D2BrmKO_R3.mLb.clN (wig)" bigDataUrl="http://wyngb.gladstone.org/data/kchoudha/ppg-Cardiac-KC/hota_2021/10.bulkATAC_Jan_2021_2days_BrmKO_and_WT/bigwigs/D2BrmKO_R3.mLb.clN.bigWig" alwaysZero="on" visibility="full" color="255,0,0" maxHeightPixels="128:32:8"
+
+track type=bigWig name="D2BrmKO_R1.mLb.clN (wig)" description="D2BrmKO_R1.mLb.clN (wig)" bigDataUrl="http://wyngb.gladstone.org/data/kchoudha/ppg-Cardiac-KC/hota_2021/10.bulkATAC_Jan_2021_2days_BrmKO_and_WT/bigwigs/D2BrmKO_R1.mLb.clN.bigWig" alwaysZero="on" visibility="full" color="255,0,0" maxHeightPixels="128:32:8"
+
+track type=bigWig name="D0_WT_R1.mLb.clN (wig)" description="D0_WT_R1.mLb.clN (wig)" bigDataUrl="http://wyngb.gladstone.org/data/kchoudha/ppg-Cardiac-KC/hota_2021/10.bulkATAC_Jan_2021_2days_BrmKO_and_WT/bigwigs/D0_WT_R1.mLb.clN.bigWig" alwaysZero="on" visibility="full" color="255,0,0" maxHeightPixels="128:32:8"
+
+track type=bigWig name="D0_WT_R2.mLb.clN (wig)" description="D0_WT_R2.mLb.clN (wig)" bigDataUrl="http://wyngb.gladstone.org/data/kchoudha/ppg-Cardiac-KC/hota_2021/10.bulkATAC_Jan_2021_2days_BrmKO_and_WT/bigwigs/D0_WT_R2.mLb.clN.bigWig" alwaysZero="on" visibility="full" color="255,0,0" maxHeightPixels="128:32:8"
+
